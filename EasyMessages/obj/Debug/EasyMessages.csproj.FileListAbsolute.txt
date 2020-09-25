@@ -1,0 +1,6 @@
+C:\Users\yourb\source\repos\EasyMessages\EasyMessages\bin\Debug\EasyMessages.dll
+C:\Users\yourb\source\repos\EasyMessages\EasyMessages\bin\Debug\EasyMessages.pdb
+C:\Users\yourb\source\repos\EasyMessages\EasyMessages\obj\Debug\EasyMessages.csprojAssemblyReference.cache
+C:\Users\yourb\source\repos\EasyMessages\EasyMessages\obj\Debug\EasyMessages.csproj.CoreCompileInputs.cache
+C:\Users\yourb\source\repos\EasyMessages\EasyMessages\obj\Debug\EasyMessages.dll
+C:\Users\yourb\source\repos\EasyMessages\EasyMessages\obj\Debug\EasyMessages.pdb
